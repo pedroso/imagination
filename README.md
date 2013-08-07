@@ -1,7 +1,4 @@
-jsf_maven
+Imagination
 =========
 
-Projeto em Java para aprender JSF e Maven
-
-
-Todos os Direitos são reservador a Felipe Pedroso.
+Projeto Front-end para usar a imaginação !
