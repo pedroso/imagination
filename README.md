@@ -1,4 +1,4 @@
-Imagination
+Chat com NODE JS
 =========
 
-Projeto Front-end para usar a imaginação !
+Desenvolvimento de um chat utilizando NODE JS!
